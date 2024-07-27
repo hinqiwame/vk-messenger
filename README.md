@@ -11,3 +11,8 @@ cd vk-messenger
 ```
 makepkg -si
 ```
+> Optional (clear after-installation cache):
+>
+```
+cd .. && rm -rf vk-messenger
+```
