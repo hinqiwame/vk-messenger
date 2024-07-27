@@ -2,7 +2,7 @@
 
 pkgname=vk-messenger
 pkgver=6.0.44
-pkgrel=254
+pkgrel=277
 pkgdesc="VK Messenger for Linux"
 arch=('x86_64')
 url="https://vk.com/messenger"
