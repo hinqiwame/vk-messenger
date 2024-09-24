@@ -10,7 +10,7 @@ license=('custom')
 depends=('alsa-lib' 'expat' 'gtk3' 'libgcrypt' 'libgnome-keyring' 'libnotify' 'libxss' 'libxtst' 'nss' 'xdg-utils')
 optdepends=('gnome-keyring')
 source=("https://upload.object2.vk-apps.com/vk-me-desktop-dev-5837a06d-5f28-484a-ac22-045903cb1b1a/latest/vk-messenger.rpm")
-sha256sums=('da4c6a78067410a80b23fbead4135ba99a153872f553fc70d4bc0d21406e7049')
+sha256sums=('289ae38b48cf4bbee00f655d34fb9a2c3bee92d20d12132caa92cc5dc692b714')
 
 prepare() {
     rm "${srcdir}/${pkgname}.rpm"
