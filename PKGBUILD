@@ -1,8 +1,8 @@
 # Maintainer: hinqiwame (https://github.com/hinqiwame)
 
 pkgname=vk-messenger
-pkgver=6.0.44
-pkgrel=277
+pkgver=6.0.49
+pkgrel=308
 pkgdesc="VK Messenger for Linux"
 arch=('x86_64')
 url="https://vk.com/messenger"
